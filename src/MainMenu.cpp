@@ -17,7 +17,7 @@ int MainMenu::printInterface(Logic& logic)
 	textColour(4);
 	cout << "8";
 	resetColour();
-	cout << "...with an added twist!" << endl << endl;
+	cout << endl << endl;
 
 	cout << " 1. Play" << endl;
 	cout << " 2. Load a game" << endl;
